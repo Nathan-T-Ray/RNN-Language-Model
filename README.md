@@ -3,4 +3,4 @@ RNN model trained on language files.
 
 Python, Pytorch
 
-Starter skeleton code Provided by Colgate University 
+Starter skeleton code provided by Colgate University 
