@@ -1,5 +1,5 @@
 # RNN-Language-Model
-RNN model trained on language files.
+RNN trained on language files.
 
 Python, Pytorch
 
